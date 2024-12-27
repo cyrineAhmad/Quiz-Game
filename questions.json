@@ -1,0 +1,39 @@
+{
+    "easy": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "answer": "Mars"
+      }
+    ],
+    "medium": [
+      {
+        "question": "Which language is primarily used for web development?",
+        "options": ["Java", "Python", "JavaScript", "C++"],
+        "answer": "JavaScript"
+      },
+      {
+        "question": "What is the HTML tag used for creating hyperlinks?",
+        "options": ["<a>", "<link>", "<href>", "<hyperlink>"],
+        "answer": "<a>"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Which JavaScript method is used to parse a JSON string?",
+        "options": ["JSON.parse()", "JSON.stringify()", "JSON.convert()", "JSON.toJSON()"],
+        "answer": "JSON.parse()"
+      },
+      {
+        "question": "Which of these is NOT a valid CSS selector?",
+        "options": ["#id", ".class", "element", "class#"],
+        "answer": "class#"
+      }
+    ]
+  }
+  
